@@ -3,7 +3,9 @@
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 </script>
 
-<template></template>
+<template>
+  <div class="app">hello, hyrule</div>
+</template>
 
 <style>
 </style>
