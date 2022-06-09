@@ -74,9 +74,9 @@ header .order {
 }
 button {
   margin: 0 10px;
-  color: #1195c9;
-  border: 3px solid #1195c9;
-  background: #d5f0ff;
+  color: #fffffe;
+  border: 3px solid #8c7851;
+  background: #8c7851;
   padding: 8px 16px;
   border-radius: 4px;
   cursor: pointer;

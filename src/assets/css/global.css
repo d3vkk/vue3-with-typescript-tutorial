@@ -3,5 +3,11 @@
 body {
     font-family: 'Noto Sans',
         sans-serif;
-    background: #ECE6D9;
+    background: #f9f4ef;
+}
+
+h1,
+h2,
+.title {
+    color: #020826;
 }

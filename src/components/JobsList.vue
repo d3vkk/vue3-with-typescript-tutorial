@@ -58,7 +58,7 @@ export default defineComponent({
 }
 .jobs-list li {
   list-style-type: none;
-  background: white;
+  background: #eaddcf;
   padding: 16px;
   margin: 16px 0;
   border-radius: 4px;
@@ -74,7 +74,7 @@ export default defineComponent({
   width: 30px;
 }
 .salary p {
-  color: #17bf66;
+  color: #f25042;
   font-weight: bold;
   margin: 10px 4px;
 }
