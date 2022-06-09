@@ -1,15 +1,22 @@
 <template>
   <div class="app">
+    <h1>OPTIONS API</h1>
     <p>{{ name }} is {{ age }} years old</p>
     <button @click="changeName('Hue')">Change Name</button>
     <button @click="changeAge('88')">Change Age</button>
+    <hr>
+    <AppTwo/>
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
+import AppTwo from "./components/AppTwo.vue";
 
 export default defineComponent({
+  components: {
+    AppTwo,
+  },
   data() {
     return {
       name: "George",
