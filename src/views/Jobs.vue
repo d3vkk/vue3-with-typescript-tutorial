@@ -1,6 +1,9 @@
 <template>
   <div>
     <header>
+      <div class="title">
+        Jobs
+      </div>
       <div class="order">
         <button @click="orderBy('title')">order by title</button>
         <button @click="orderBy('location')">order by location</button>
@@ -66,6 +69,10 @@ export default defineComponent({
 </script>
 
 <style scoped>
+.title{
+  font-size: 4rem;
+  text-transform: uppercase;
+}
 header {
   text-align: center;
 }
