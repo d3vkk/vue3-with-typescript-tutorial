@@ -1,6 +1,6 @@
 # Vue 3 with Typescript Tutorial
 
-![Vue Logo](https://github.com/d3vkk/vue-3-with-typescript-tutorial/blob/master/vue-logo.png)
+![Vue Logo](https://github.com/d3vkk/vue3-with-typescript-tutorial/blob/master/vue-logo.png)
 
 Vue 3 with Typescript Tutorial from Net Ninja. With short, useful comments.
 
@@ -14,11 +14,11 @@ To contribute, [use this guide](https://github.com/d3vkk/open-source/blob/master
 
 Star this repo for future reference
 
-[Open in browser-based Visual Studio Code](https://vscode.dev//github/d3vkk/vue-3-with-typescript-tutorial)
+[Open in browser-based Visual Studio Code](https://vscode.dev//github/d3vkk/vue3-with-typescript-tutorial)
 
 Fork or clone this repo
 ```
-git clone https://github.com/d3vkk/vue-3-with-typescript-tutorial.git
+git clone https://github.com/d3vkk/vue3-with-typescript-tutorial.git
 ```
 
 © 2022-present Donald K • Under MIT License
